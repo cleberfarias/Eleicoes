@@ -1,5 +1,5 @@
 
-public class Pesquisa {
+public class Pesquisa extends Candidato{
 
 	private int idPesquisa;
 	private String dataPesquisa;
